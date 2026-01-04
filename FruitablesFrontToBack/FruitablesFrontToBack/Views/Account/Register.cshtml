@@ -1,0 +1,38 @@
+﻿@model RegisterVM
+<div class="container" style="margin: auto">
+    <form method="post">
+        <h3>Register</h3>
+        <div class="text-danger" asp-validation-summary="All"></div>
+        <div class="form-group">
+            <label for="exampleInputEmail1">Name</label>
+            <input asp-for="Name" class="form-control" placeholder="Name">
+            <span class="text-danger" asp-validation-for="Name"></span>
+        </div>
+        <div class="form-group">
+            <label for="exampleInputPassword1">Surname</label>
+            <input asp-for="Surname" class="form-control" placeholder="Surname">
+            <span class="text-danger" asp-validation-for="Surname"></span>
+        </div>
+        <div class="form-group">
+            <label for="exampleInputEmail1">Username</label>
+            <input asp-for="Username" class="form-control" placeholder="Username">
+            <span class="text-danger" asp-validation-for="Username"></span>
+        </div>
+        <div class="form-group">
+            <label for="exampleInputEmail1">Email address</label>
+            <input asp-for="Email" class="form-control" placeholder="Enter email">
+            <span class="text-danger" asp-validation-for="Email"></span>
+        </div>
+        <div class="form-group">
+            <label for="exampleInputPassword1">Password</label>
+            <input asp-for="Password" class="form-control" placeholder="Password">
+            <span class="text-danger" asp-validation-for="Password"></span>
+        </div>
+        <div class="form-group">
+            <label for="exampleInputPassword1">Confirm Password</label>
+            <input asp-for="ConfirmPassword" class="form-control" placeholder="Password">
+            <span class="text-danger" asp-validation-for="ConfirmPassword"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>
