@@ -1,37 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\classtime\\Desktop\\FruitablesFrontToBack\\",
+  "WorkspaceRootPath": "C:\\Users\\baloglan\\Desktop\\FruitablesFrontToBack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8EFA4738-7E00-437A-85B2-8555D3ED3866}|FruitablesFrontToBack\\FruitablesFrontToBack.csproj|c:\\users\\classtime\\desktop\\fruitablesfronttoback\\fruitablesfronttoback\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8EFA4738-7E00-437A-85B2-8555D3ED3866}|FruitablesFrontToBack\\FruitablesFrontToBack.csproj|c:\\users\\baloglan\\desktop\\fruitablesfronttoback\\fruitablesfronttoback\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8EFA4738-7E00-437A-85B2-8555D3ED3866}|FruitablesFrontToBack\\FruitablesFrontToBack.csproj|solutionrelative:fruitablesfronttoback\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFA4738-7E00-437A-85B2-8555D3ED3866}|FruitablesFrontToBack\\FruitablesFrontToBack.csproj|c:\\users\\baloglan\\desktop\\fruitablesfronttoback\\fruitablesfronttoback\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EFA4738-7E00-437A-85B2-8555D3ED3866}|FruitablesFrontToBack\\FruitablesFrontToBack.csproj|solutionrelative:fruitablesfronttoback\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFA4738-7E00-437A-85B2-8555D3ED3866}|FruitablesFrontToBack\\FruitablesFrontToBack.csproj|c:\\users\\baloglan\\desktop\\fruitablesfronttoback\\fruitablesfronttoback\\areas\\admin\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EFA4738-7E00-437A-85B2-8555D3ED3866}|FruitablesFrontToBack\\FruitablesFrontToBack.csproj|solutionrelative:fruitablesfronttoback\\areas\\admin\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFA4738-7E00-437A-85B2-8555D3ED3866}|FruitablesFrontToBack\\FruitablesFrontToBack.csproj|c:\\users\\baloglan\\desktop\\fruitablesfronttoback\\fruitablesfronttoback\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8EFA4738-7E00-437A-85B2-8555D3ED3866}|FruitablesFrontToBack\\FruitablesFrontToBack.csproj|solutionrelative:fruitablesfronttoback\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EFA4738-7E00-437A-85B2-8555D3ED3866}|FruitablesFrontToBack\\FruitablesFrontToBack.csproj|c:\\users\\classtime\\desktop\\fruitablesfronttoback\\fruitablesfronttoback\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8EFA4738-7E00-437A-85B2-8555D3ED3866}|FruitablesFrontToBack\\FruitablesFrontToBack.csproj|c:\\users\\baloglan\\desktop\\fruitablesfronttoback\\fruitablesfronttoback\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8EFA4738-7E00-437A-85B2-8555D3ED3866}|FruitablesFrontToBack\\FruitablesFrontToBack.csproj|solutionrelative:fruitablesfronttoback\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EFA4738-7E00-437A-85B2-8555D3ED3866}|FruitablesFrontToBack\\FruitablesFrontToBack.csproj|c:\\users\\classtime\\desktop\\fruitablesfronttoback\\fruitablesfronttoback\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8EFA4738-7E00-437A-85B2-8555D3ED3866}|FruitablesFrontToBack\\FruitablesFrontToBack.csproj|c:\\users\\baloglan\\desktop\\fruitablesfronttoback\\fruitablesfronttoback\\areas\\admin\\viewmodels\\productvms\\updateproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFA4738-7E00-437A-85B2-8555D3ED3866}|FruitablesFrontToBack\\FruitablesFrontToBack.csproj|solutionrelative:fruitablesfronttoback\\areas\\admin\\viewmodels\\productvms\\updateproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFA4738-7E00-437A-85B2-8555D3ED3866}|FruitablesFrontToBack\\FruitablesFrontToBack.csproj|c:\\users\\baloglan\\desktop\\fruitablesfronttoback\\fruitablesfronttoback\\areas\\admin\\viewmodels\\productvms\\detailproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFA4738-7E00-437A-85B2-8555D3ED3866}|FruitablesFrontToBack\\FruitablesFrontToBack.csproj|solutionrelative:fruitablesfronttoback\\areas\\admin\\viewmodels\\productvms\\detailproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFA4738-7E00-437A-85B2-8555D3ED3866}|FruitablesFrontToBack\\FruitablesFrontToBack.csproj|c:\\users\\baloglan\\desktop\\fruitablesfronttoback\\fruitablesfronttoback\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8EFA4738-7E00-437A-85B2-8555D3ED3866}|FruitablesFrontToBack\\FruitablesFrontToBack.csproj|solutionrelative:fruitablesfronttoback\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EFA4738-7E00-437A-85B2-8555D3ED3866}|FruitablesFrontToBack\\FruitablesFrontToBack.csproj|c:\\users\\classtime\\desktop\\fruitablesfronttoback\\fruitablesfronttoback\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8EFA4738-7E00-437A-85B2-8555D3ED3866}|FruitablesFrontToBack\\FruitablesFrontToBack.csproj|c:\\users\\baloglan\\desktop\\fruitablesfronttoback\\fruitablesfronttoback\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8EFA4738-7E00-437A-85B2-8555D3ED3866}|FruitablesFrontToBack\\FruitablesFrontToBack.csproj|solutionrelative:fruitablesfronttoback\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EFA4738-7E00-437A-85B2-8555D3ED3866}|FruitablesFrontToBack\\FruitablesFrontToBack.csproj|c:\\users\\classtime\\desktop\\fruitablesfronttoback\\fruitablesfronttoback\\helpers\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8EFA4738-7E00-437A-85B2-8555D3ED3866}|FruitablesFrontToBack\\FruitablesFrontToBack.csproj|c:\\users\\baloglan\\desktop\\fruitablesfronttoback\\fruitablesfronttoback\\helpers\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8EFA4738-7E00-437A-85B2-8555D3ED3866}|FruitablesFrontToBack\\FruitablesFrontToBack.csproj|solutionrelative:fruitablesfronttoback\\helpers\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EFA4738-7E00-437A-85B2-8555D3ED3866}|FruitablesFrontToBack\\FruitablesFrontToBack.csproj|c:\\users\\classtime\\desktop\\fruitablesfronttoback\\fruitablesfronttoback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8EFA4738-7E00-437A-85B2-8555D3ED3866}|FruitablesFrontToBack\\FruitablesFrontToBack.csproj|c:\\users\\baloglan\\desktop\\fruitablesfronttoback\\fruitablesfronttoback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8EFA4738-7E00-437A-85B2-8555D3ED3866}|FruitablesFrontToBack\\FruitablesFrontToBack.csproj|solutionrelative:fruitablesfronttoback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EFA4738-7E00-437A-85B2-8555D3ED3866}|FruitablesFrontToBack\\FruitablesFrontToBack.csproj|c:\\users\\classtime\\desktop\\fruitablesfronttoback\\fruitablesfronttoback\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8EFA4738-7E00-437A-85B2-8555D3ED3866}|FruitablesFrontToBack\\FruitablesFrontToBack.csproj|c:\\users\\baloglan\\desktop\\fruitablesfronttoback\\fruitablesfronttoback\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8EFA4738-7E00-437A-85B2-8555D3ED3866}|FruitablesFrontToBack\\FruitablesFrontToBack.csproj|solutionrelative:fruitablesfronttoback\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EFA4738-7E00-437A-85B2-8555D3ED3866}|FruitablesFrontToBack\\FruitablesFrontToBack.csproj|c:\\users\\classtime\\desktop\\fruitablesfronttoback\\fruitablesfronttoback\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8EFA4738-7E00-437A-85B2-8555D3ED3866}|FruitablesFrontToBack\\FruitablesFrontToBack.csproj|c:\\users\\baloglan\\desktop\\fruitablesfronttoback\\fruitablesfronttoback\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8EFA4738-7E00-437A-85B2-8555D3ED3866}|FruitablesFrontToBack\\FruitablesFrontToBack.csproj|solutionrelative:fruitablesfronttoback\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -42,15 +62,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\baloglan\\Desktop\\FruitablesFrontToBack\\FruitablesFrontToBack\\appsettings.json",
+              "RelativeDocumentMoniker": "FruitablesFrontToBack\\appsettings.json",
+              "ToolTip": "C:\\Users\\baloglan\\Desktop\\FruitablesFrontToBack\\FruitablesFrontToBack\\appsettings.json*",
+              "RelativeToolTip": "FruitablesFrontToBack\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-05T15:45:14.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\baloglan\\Desktop\\FruitablesFrontToBack\\FruitablesFrontToBack\\Areas\\Admin\\Views\\Product\\Detail.cshtml",
+              "RelativeDocumentMoniker": "FruitablesFrontToBack\\Areas\\Admin\\Views\\Product\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\baloglan\\Desktop\\FruitablesFrontToBack\\FruitablesFrontToBack\\Areas\\Admin\\Views\\Product\\Detail.cshtml",
+              "RelativeToolTip": "FruitablesFrontToBack\\Areas\\Admin\\Views\\Product\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T15:40:13.889Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\baloglan\\Desktop\\FruitablesFrontToBack\\FruitablesFrontToBack\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "FruitablesFrontToBack\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\baloglan\\Desktop\\FruitablesFrontToBack\\FruitablesFrontToBack\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "FruitablesFrontToBack\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T15:39:23.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DetailProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\baloglan\\Desktop\\FruitablesFrontToBack\\FruitablesFrontToBack\\Areas\\Admin\\ViewModels\\ProductVMs\\DetailProductVM.cs",
+              "RelativeDocumentMoniker": "FruitablesFrontToBack\\Areas\\Admin\\ViewModels\\ProductVMs\\DetailProductVM.cs",
+              "ToolTip": "C:\\Users\\baloglan\\Desktop\\FruitablesFrontToBack\\FruitablesFrontToBack\\Areas\\Admin\\ViewModels\\ProductVMs\\DetailProductVM.cs",
+              "RelativeToolTip": "FruitablesFrontToBack\\Areas\\Admin\\ViewModels\\ProductVMs\\DetailProductVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T15:37:10.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\baloglan\\Desktop\\FruitablesFrontToBack\\FruitablesFrontToBack\\Areas\\Admin\\ViewModels\\ProductVMs\\UpdateProductVM.cs",
+              "RelativeDocumentMoniker": "FruitablesFrontToBack\\Areas\\Admin\\ViewModels\\ProductVMs\\UpdateProductVM.cs",
+              "ToolTip": "C:\\Users\\baloglan\\Desktop\\FruitablesFrontToBack\\FruitablesFrontToBack\\Areas\\Admin\\ViewModels\\ProductVMs\\UpdateProductVM.cs",
+              "RelativeToolTip": "FruitablesFrontToBack\\Areas\\Admin\\ViewModels\\ProductVMs\\UpdateProductVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T08:59:13.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\FruitablesFrontToBack\\FruitablesFrontToBack\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\baloglan\\Desktop\\FruitablesFrontToBack\\FruitablesFrontToBack\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "FruitablesFrontToBack\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\FruitablesFrontToBack\\FruitablesFrontToBack\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\baloglan\\Desktop\\FruitablesFrontToBack\\FruitablesFrontToBack\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "FruitablesFrontToBack\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "ViewState": "AgIAAGAAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -59,11 +148,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Helper.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\FruitablesFrontToBack\\FruitablesFrontToBack\\Helpers\\Helper.cs",
+              "DocumentMoniker": "C:\\Users\\baloglan\\Desktop\\FruitablesFrontToBack\\FruitablesFrontToBack\\Helpers\\Helper.cs",
               "RelativeDocumentMoniker": "FruitablesFrontToBack\\Helpers\\Helper.cs",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\FruitablesFrontToBack\\FruitablesFrontToBack\\Helpers\\Helper.cs",
+              "ToolTip": "C:\\Users\\baloglan\\Desktop\\FruitablesFrontToBack\\FruitablesFrontToBack\\Helpers\\Helper.cs",
               "RelativeToolTip": "FruitablesFrontToBack\\Helpers\\Helper.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -72,24 +161,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\FruitablesFrontToBack\\FruitablesFrontToBack\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\baloglan\\Desktop\\FruitablesFrontToBack\\FruitablesFrontToBack\\Areas\\Admin\\Views\\Product\\Create.cshtml",
               "RelativeDocumentMoniker": "FruitablesFrontToBack\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\FruitablesFrontToBack\\FruitablesFrontToBack\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\baloglan\\Desktop\\FruitablesFrontToBack\\FruitablesFrontToBack\\Areas\\Admin\\Views\\Product\\Create.cshtml",
               "RelativeToolTip": "FruitablesFrontToBack\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABjAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-05T07:44:03.941Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\FruitablesFrontToBack\\FruitablesFrontToBack\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\baloglan\\Desktop\\FruitablesFrontToBack\\FruitablesFrontToBack\\Areas\\Admin\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "FruitablesFrontToBack\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\FruitablesFrontToBack\\FruitablesFrontToBack\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\baloglan\\Desktop\\FruitablesFrontToBack\\FruitablesFrontToBack\\Areas\\Admin\\Views\\Product\\Index.cshtml",
               "RelativeToolTip": "FruitablesFrontToBack\\Areas\\Admin\\Views\\Product\\Index.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -98,59 +187,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\FruitablesFrontToBack\\FruitablesFrontToBack\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\baloglan\\Desktop\\FruitablesFrontToBack\\FruitablesFrontToBack\\Areas\\Admin\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "FruitablesFrontToBack\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\FruitablesFrontToBack\\FruitablesFrontToBack\\Areas\\Admin\\Controllers\\ProductController.cs*",
-              "RelativeToolTip": "FruitablesFrontToBack\\Areas\\Admin\\Controllers\\ProductController.cs*",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAwwIIAAAAuAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\baloglan\\Desktop\\FruitablesFrontToBack\\FruitablesFrontToBack\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "FruitablesFrontToBack\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAAALsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-05T07:21:00.313Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "_AdminLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\FruitablesFrontToBack\\FruitablesFrontToBack\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\baloglan\\Desktop\\FruitablesFrontToBack\\FruitablesFrontToBack\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
               "RelativeDocumentMoniker": "FruitablesFrontToBack\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\FruitablesFrontToBack\\FruitablesFrontToBack\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\baloglan\\Desktop\\FruitablesFrontToBack\\FruitablesFrontToBack\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
               "RelativeToolTip": "FruitablesFrontToBack\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
               "ViewState": "AgIAAL0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-05T06:00:20.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-05T06:00:20.913Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\FruitablesFrontToBack\\FruitablesFrontToBack\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\baloglan\\Desktop\\FruitablesFrontToBack\\FruitablesFrontToBack\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "FruitablesFrontToBack\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\FruitablesFrontToBack\\FruitablesFrontToBack\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\baloglan\\Desktop\\FruitablesFrontToBack\\FruitablesFrontToBack\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "FruitablesFrontToBack\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-05T05:32:11.429Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "WhenOpened": "2026-01-05T05:32:11.429Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\FruitablesFrontToBack\\FruitablesFrontToBack\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\baloglan\\Desktop\\FruitablesFrontToBack\\FruitablesFrontToBack\\Program.cs",
               "RelativeDocumentMoniker": "FruitablesFrontToBack\\Program.cs",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\FruitablesFrontToBack\\FruitablesFrontToBack\\Program.cs",
+              "ToolTip": "C:\\Users\\baloglan\\Desktop\\FruitablesFrontToBack\\FruitablesFrontToBack\\Program.cs",
               "RelativeToolTip": "FruitablesFrontToBack\\Program.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAgwC0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T19:03:08.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T19:03:08.669Z"
             }
           ]
         }
