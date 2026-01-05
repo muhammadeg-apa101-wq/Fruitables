@@ -43,6 +43,8 @@ namespace FruitablesFrontToBack
 
             var app = builder.Build();
 
+            app.UseStaticFiles();
+
             if (!app.Environment.IsDevelopment())
             {
                 app.UseExceptionHandler("/Home/Error");
@@ -59,6 +61,9 @@ namespace FruitablesFrontToBack
             app.UseAuthentication();
             app.UseAuthorization();
 
+            app.MapControllerRoute(
+                name: "areas",
+                pattern: "{area:exists}/{controller=Dashboard}/{action=Index}/{id?}");
 
             app.MapControllerRoute(
                 name: "default",

@@ -134,6 +134,12 @@ wwwroot\admin\vendors\mdi\fonts\materialdesignicons-webfont.woff
 wwwroot\admin\vendors\mdi\fonts\materialdesignicons-webfont.woff2
 wwwroot\css\bootstrap.min.css
 wwwroot\css\style.css
+wwwroot\images\products\571075cf-d5e6-4824-aecf-ce02e7220298_images.jfif
+wwwroot\images\products\5a2004fe-ba1d-4634-aedf-04518df9bc10_images.jfif
+wwwroot\images\products\a28b9a01-f5ca-4c53-acf7-2764a3c54bb1_images (1).jfif
+wwwroot\img\0df93053-ed40-473d-b101-22c18bda586c_images (1).jfif
+wwwroot\img\4468a354-0633-4449-978f-75bc4fb0a683_images.jfif
+wwwroot\img\ae88acaa-aa9d-40b0-85e2-9af11c5d31a0_images (1).jfif
 wwwroot\img\avatar.jpg
 wwwroot\img\baner-1.png
 wwwroot\img\banner-fruits.jpg

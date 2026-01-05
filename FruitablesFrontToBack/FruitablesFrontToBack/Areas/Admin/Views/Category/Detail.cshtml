@@ -1,0 +1,19 @@
+﻿@model DetailCategoryVM
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Category Detail</h4>
+            <p class="card-description">
+                Basic form elements
+            </p>
+            <form class="forms-sample">
+                <div class="form-group">
+                    <label for="exampleInputName1">Name</label>
+                    <input asp-for="Name" disabled type="text" class="form-control" id="exampleInputName1" placeholder="Name">
+                    <span class="text-danger my-1" asp-validation-for="Name"></span>
+                </div>
+                <a class="btn btn-light" asp-action="Index">Back</a>
+            </form>
+        </div>
+    </div>
+</div>
